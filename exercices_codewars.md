@@ -1,4 +1,10 @@
 ## Exercices codewars:
+
+### Sources
+
+#### Tuto pour apprendre R:
+https://www.w3schools.com/r/default.asp
+
 ### Beginner Series
 
 #### Serie #1
@@ -15,6 +21,8 @@ https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
 
 #### Serie #5
 https://www.codewars.com/kata/56d0a591c6c8b466ca00118b
+
+### Simple series
 
 ### Série Numbers
 https://www.codewars.com/collections/playing-with-numbers
