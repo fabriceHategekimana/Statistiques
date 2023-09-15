@@ -11,3 +11,23 @@
 | 5 | Loris  | SHABANI  | 15h40 |
 | 6 | Omar   | ELJADI   | 15h50 |
 | 7 | Amelio | MARCACCI | 16h00 |
+
+
+## Présentation finale
+
+- Introduction:
+	- Context
+	- Question de recherche
+- Exploration des données:
+	- Nom de la bases
+	- Source (par exemple Kaggle)
+	- Dates
+	- Colonnes/valeurs
+- Question de recherche
+	- présentaiton des graphiques (minimum 2-3)
+	- Fiabilité des données
+- Projet futures
+	- Proposition pour de meilleurs résultats
+	- Autres questions intéressantes à chercher
+
+
